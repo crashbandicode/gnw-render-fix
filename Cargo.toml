@@ -1,0 +1,35 @@
+[package]
+name = "gnw-render-probe"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[package.metadata.skyline]
+titleid = "01006A800016E000"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+test = false
+doctest = false
+bench = false
+
+[target.'cfg(target_os = "switch")'.dependencies]
+skyline = "=0.6.0"
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
+lto = true
+codegen-units = 1
+
+[features]
+default = []
+range-probe = []
+host-tests = []
+
+[[test]]
+name = "bounds"
+path = "tests/bounds.rs"
+required-features = ["host-tests"]
