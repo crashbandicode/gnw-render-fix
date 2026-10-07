@@ -1,4 +1,41 @@
-# Validation of the v4 experimental NRO
+# Validation
+
+## Version 0.1.1: Switch startup correction
+
+The corrected range-enabled NRO has SHA-256:
+
+```text
+bceef1f09e4339149cdab8e7826d17492680add02307002b0a5d62033d1090c8
+```
+
+Its matching optimized debug ELF has SHA-256:
+
+```text
+e4448f2fdc98ad583b7bb355a09f1f802fe901c5a76697823b4af605fe572232
+```
+
+Validation on 2026-10-07:
+
+- Four host bounds tests passed. Host Clippy for all targets, host build without
+  default features, Switch-target Clippy with warnings denied, and the optimized
+  Skyline build with `range-probe` passed.
+- Disassembly of the exact NRO confirms the shader hook preserves its live
+  pointer and range boundary across QueryMemory. Both source SVC sites declare
+  the complete caller-saved clobber set. Host tests alone do not cover this code.
+- Eden CLI build `10bcd2d849843b146a79c61a21df615e1bdcfcde`, Smash 13.0.5,
+  Vulkan/accurate, docked, 100% speed: startup, character select, and Training as
+  stock Mr. Game & Watch versus Zero Suit Samus passed. Idle, Chef, and jab were
+  visually inspected, then Training returned to character select without a crash.
+- The same run loaded Online Deluxe rewrite `4a927dc20904722d`, Training Modpack,
+  the corrected gamepad overlay, Elite Legal Stages, and standalone ImGui. The
+  overlay was visible. GNW logs showed the exact shader fingerprint verified and
+  `RANGE ... restored=true`. No separate Eden demand-readback bypass was enabled.
+- This is a targeted boot/render regression check, not a new speedup measurement,
+  exhaustive pose test, or multiplayer compatibility certificate.
+- Native Switch retry of this corrected binary is pending. The old binary's
+  three matching hardware reports and root cause are in [SWITCH_BOOT_FIX.md](SWITCH_BOOT_FIX.md).
+
+## Original v4 / 0.1.0 measurements (historical)
 
 This is offline validation, not an online compatibility certificate.
 

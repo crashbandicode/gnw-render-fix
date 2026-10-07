@@ -1,5 +1,16 @@
 # Yoga handoff — G&W Rust NRO and desync validation
 
+## 2026-10-07 update: hardware startup fix
+
+The original `0883e69785e90b0e` binary produced three identical startup Data Aborts
+on the operator's Switch. Version 0.1.1 corrects the inline system-call register
+clobbers; it keeps the range experiment unchanged. Use the new release's NRO,
+source, optimized debug ELF, and hashes. See [SWITCH_BOOT_FIX.md](SWITCH_BOOT_FIX.md)
+and the current section of [VALIDATION.md](VALIDATION.md). The old staged delivery
+below describes 0.1.0 and must not be mistaken for the corrected build.
+
+## Original delivery
+
 The operator requested that this NRO be staged with the Eden CLI handoff and
 that the receiving agent **test for desync**. It has not been installed in the
 active Yoga profile. Existing Eden settings, ROMs, firmware, keys and saves must

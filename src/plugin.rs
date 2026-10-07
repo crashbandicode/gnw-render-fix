@@ -88,12 +88,14 @@ fn log(args: fmt::Arguments<'_>) {
         "LOG_ONLY"
     };
     let _ = writeln!(line, "[gnw-render-probe v4 {mode}] {args}");
-    // SVC OutputDebugString is captured by Eden's Debug.Emulated:Info logger.
+    // SVC 0x27 is libnx svcOutputDebugString (svc; ret). Same AAPCS64 clobber
+    // contract as that C function. Eden's Debug.Emulated:Info logger still sees it.
     unsafe {
         std::arch::asm!(
             "svc #0x27",
             inlateout("x0") line.bytes.as_ptr() => _,
-            in("x1") line.len,
+            inlateout("x1") line.len => _,
+            clobber_abi("C"),
             options(nostack)
         );
     }

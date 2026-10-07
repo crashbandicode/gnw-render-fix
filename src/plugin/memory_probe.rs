@@ -62,12 +62,16 @@ fn readable(address: usize, size: usize) -> bool {
     }
     let mut info = MemoryInfo::default();
     let result: usize;
+    // SVC 0x6 follows the caller-saved register contract of libnx svcQueryMemory.
+    // Declare those clobbers so the optimizer preserves live pointers across the
+    // trap. x0/x1 return results; x2 is consumed and explicitly discarded.
     unsafe {
         std::arch::asm!(
             "svc #0x6",
             inlateout("x0") &mut info as *mut MemoryInfo => result,
             lateout("x1") _,
-            in("x2") address,
+            inlateout("x2") address => _,
+            clobber_abi("C"),
             options(nostack)
         );
     }

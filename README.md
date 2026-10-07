@@ -1,5 +1,10 @@
 # G&W render fix — Rust Skyline NRO
 
+Version **0.1.1** fixes a Switch startup crash in the plugin's memory inspection.
+Both inline system calls now declare the registers they can overwrite. The
+render-range optimization and its guards are unchanged. See
+[the crash diagnosis](SWITCH_BOOT_FIX.md) and [validation](VALIDATION.md).
+
 An experimental client-side rendering fix for Mr. Game & Watch in Super Smash
 Bros. Ultimate under Eden. The private prerelease is for controlled testing.
 **Online/desync compatibility has not been established.**
@@ -69,6 +74,11 @@ Set CARGO_BUILD_JOBS=2; this wrapper does not accept a top-level --jobs argument
     cargo skyline clippy --no-default-features --features range-probe -- --all-targets -- -D warnings
 
 Output: target/aarch64-skyline-switch/release/libgnw_render_probe.nro.
+
+Release builds retain optimized debug information in
+`target/aarch64-skyline-switch/release/libgnw_render_probe.so`. Release assets
+include that ELF separately, with source and SHA-256 hashes for crash analysis.
+Install only `libgnw_render_probe.nro` in the Skyline plugins directory.
 
 For an observation-only build omit --features range-probe. Host bounds tests:
 
