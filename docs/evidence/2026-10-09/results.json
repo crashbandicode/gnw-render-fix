@@ -1,0 +1,62 @@
+{
+  "before": {
+    "phase": "before",
+    "warmup_started_at": 1791574772.73844,
+    "warmup_seconds": 30,
+    "window_seconds": 60.00006361398846,
+    "sample_count": 60,
+    "median_fps": 28.002579140576238,
+    "mean_fps": 27.383070739289806,
+    "min_fps": 20.018565308329713,
+    "max_fps": 29.0087465752384,
+    "median_gpu_utilization_percent": 79.0,
+    "median_gpu_power_watts": 19.94,
+    "gpu_temp_c_min_max": [
+      64.0,
+      65.0
+    ],
+    "all_samples_shaders_building_zero": true,
+    "first_sample_utc": "2026-10-09T19:40:02.847080+00:00",
+    "last_sample_utc": "2026-10-09T19:41:01.846255+00:00"
+  },
+  "after": {
+    "phase": "after",
+    "warmup_started_at": 1791575268.8233042,
+    "warmup_seconds": 30,
+    "window_seconds": 60.00007465109229,
+    "sample_count": 60,
+    "median_fps": 59.9868655225673,
+    "mean_fps": 59.03357102618948,
+    "min_fps": 41.98667339749213,
+    "max_fps": 60.04571802763219,
+    "median_gpu_utilization_percent": 28.0,
+    "median_gpu_power_watts": 10.02,
+    "gpu_temp_c_min_max": [
+      57.0,
+      58.0
+    ],
+    "all_samples_shaders_building_zero": true,
+    "first_sample_utc": "2026-10-09T19:48:18.919257+00:00",
+    "last_sample_utc": "2026-10-09T19:49:17.919409+00:00"
+  },
+  "control": {
+    "phase": "control",
+    "warmup_started_at": 1791575684.342296,
+    "warmup_seconds": 30,
+    "window_seconds": 60.000049541005865,
+    "sample_count": 60,
+    "median_fps": 29.00421379602554,
+    "mean_fps": 29.05001448534984,
+    "min_fps": 26.985750089693745,
+    "max_fps": 30.01841986902987,
+    "median_gpu_utilization_percent": 81.0,
+    "median_gpu_power_watts": 20.31,
+    "gpu_temp_c_min_max": [
+      65.0,
+      66.0
+    ],
+    "all_samples_shaders_building_zero": true,
+    "first_sample_utc": "2026-10-09T19:55:14.429132+00:00",
+    "last_sample_utc": "2026-10-09T19:56:13.429201+00:00"
+  }
+}

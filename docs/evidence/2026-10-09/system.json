@@ -1,0 +1,18 @@
+{
+  "captured_at": "2026-10-09T19:58:07.514987+00:00",
+  "system": "Surface Laptop Studio",
+  "cpu": "11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz",
+  "logical_cpus": 8,
+  "physical_cores": 4,
+  "mem_total_kib": 32143992,
+  "os": "Ubuntu 26.04.1 LTS",
+  "kernel": "7.2.6-070206-generic",
+  "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU, 610.57.04, 4096 MiB",
+  "power_profile": "performance",
+  "display": "background Xwayland",
+  "capture_dimensions": [
+    1280,
+    800
+  ],
+  "eden_build": "local CLI-instrumented build, not a pristine upstream release"
+}

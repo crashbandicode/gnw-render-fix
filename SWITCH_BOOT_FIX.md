@@ -1,5 +1,10 @@
 # Switch startup crash fixed in 0.1.1
 
+**October 9, 2026 update:** the operator reports the corrected `0.1.1` mod working
+on physical Switch. This is operator-reported functionality, not an instrumented
+Switch performance measurement. The unchanged corrected binary also completed
+the [fresh Eden before/after/control comparison](EDEN_BENCHMARK.md).
+
 The 0.1.0 experimental NRO could close Smash before the title screen on a real
 Switch. Three hardware reports recorded the same MainThread Data Abort:
 
@@ -38,7 +43,8 @@ log-only feature selection are unchanged. Release NROs still enable `range-probe
 
 The old binary passed Eden tests. Those tests did not expose this hardware
 register-clobber failure; successful emulator execution alone cannot validate a
-Switch system-call contract. A hardware retry remains the final boot check.
+Switch system-call contract. The subsequent operator-reported hardware success
+is recorded above, separately from the emulator evidence.
 
 ## Installation and rollback
 

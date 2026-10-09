@@ -1,0 +1,132 @@
+{
+  "core.anti_aliasing": {
+    "canonical": "None",
+    "value": "0",
+    "using_global": true
+  },
+  "core.async_presentation": {
+    "canonical": "false",
+    "value": "false",
+    "using_global": true
+  },
+  "core.backend": {
+    "canonical": "Vulkan",
+    "value": "1",
+    "using_global": true
+  },
+  "core.cpu_accuracy": {
+    "canonical": "Auto",
+    "value": "0",
+    "using_global": true
+  },
+  "core.cpu_backend": {
+    "canonical": "Dynarmic",
+    "value": "0",
+    "using_global": true
+  },
+  "core.frame_gen": {
+    "canonical": "false",
+    "value": "false",
+    "using_global": true
+  },
+  "core.gpu_accuracy": {
+    "canonical": "High",
+    "value": "1",
+    "using_global": true
+  },
+  "core.max_anisotropy": {
+    "canonical": "Automatic",
+    "value": "0",
+    "using_global": true
+  },
+  "core.nvdec_emulation": {
+    "canonical": "Gpu",
+    "value": "2",
+    "using_global": true
+  },
+  "core.resolution_setup": {
+    "canonical": "Res1X",
+    "value": "3",
+    "using_global": true
+  },
+  "core.scaling_filter": {
+    "canonical": "Bilinear",
+    "value": "1",
+    "using_global": false
+  },
+  "core.speed_limit": {
+    "canonical": "100",
+    "value": "100",
+    "using_global": true
+  },
+  "core.sync_memory_operations": {
+    "canonical": "false",
+    "value": "false",
+    "using_global": true
+  },
+  "core.use_asynchronous_gpu_emulation": {
+    "canonical": "true",
+    "value": "true",
+    "using_global": true
+  },
+  "core.use_asynchronous_shaders": {
+    "canonical": "false",
+    "value": "false",
+    "using_global": true
+  },
+  "core.use_disk_shader_cache": {
+    "canonical": "true",
+    "value": "true",
+    "using_global": true
+  },
+  "core.use_docked_mode": {
+    "canonical": "Docked",
+    "value": "1",
+    "using_global": true
+  },
+  "core.use_multi_core": {
+    "canonical": "true",
+    "value": "true",
+    "using_global": true
+  },
+  "core.use_reactive_flushing": {
+    "canonical": "true",
+    "value": "true",
+    "using_global": true
+  },
+  "core.use_speed_limit": {
+    "canonical": "true",
+    "value": "true",
+    "using_global": true
+  },
+  "core.use_vsync": {
+    "canonical": "Immediate",
+    "value": "0",
+    "using_global": false
+  },
+  "core.use_vulkan_driver_pipeline_cache": {
+    "canonical": "true",
+    "value": "true",
+    "using_global": true
+  },
+  "core.volume": {
+    "canonical": "0",
+    "value": "0",
+    "using_global": true
+  },
+  "core.vulkan_device": {
+    "canonical": "0",
+    "value": "0",
+    "using_global": true
+  },
+  "ui.enable_gamemode": {
+    "canonical": "true",
+    "value": "true",
+    "using_global": true
+  },
+  "ui.pauseWhenInBackground": {
+    "canonical": "false",
+    "value": "false",
+    "using_global": true
+  }
+}

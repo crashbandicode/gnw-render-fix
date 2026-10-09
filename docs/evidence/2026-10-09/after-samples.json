@@ -1,0 +1,1802 @@
+[
+  {
+    "at": 1791575298.919257,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.99092830784792,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.97320768914337,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.99,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 810.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6602469376,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575299.9195192,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.98329964258683,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.93001923709668,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.1,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 810.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6607216640,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575300.9196885,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.00805773647197,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.02810347726116,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.0,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 832.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6583250944,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575301.9194334,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.01810579253828,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.02319055990473,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 30.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.07,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 832.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6588088320,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575302.919381,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 57.995341160877686,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 56.08033934822212,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.97,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 810.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6592585728,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575303.919404,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.01818020984936,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.078288859308614,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.06,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 810.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6597070848,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575304.9201436,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 55.98572178234221,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 51.98472678330161,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 27.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.9,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 802.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6600847360,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575305.9194136,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 57.95680495241687,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.996610191524184,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 30.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.11,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 802.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6605344768,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575306.9194226,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.02734149144749,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.02105466572408,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.0,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 802.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6609215488,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575307.9193897,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.97750278191583,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.96496391074608,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.09,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 802.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6613778432,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575308.9195235,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.028018053095224,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.979551291537284,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 27.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.0,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 795.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6617866240,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575309.919538,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.01609000753807,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 59.99933712732342,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.09,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 795.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6622265344,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575310.9193957,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.996816519214605,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.61601498028633,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.01,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 817.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6626627584,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575311.9194036,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.01975010072286,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.07583937917723,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.1,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 817.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6630707200,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575312.91953,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.96854334757423,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.030629908543276,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 16.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.94,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 825.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6634999808,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575313.9205003,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 54.99874319339226,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 51.95132327253598,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 9.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.64,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 592.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6639304704,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575314.9205263,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 41.98667339749213,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 33.97362919338928,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 22.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.53,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 967.0,
+      "clocks.mem": 5501.0
+    },
+    "memory_bytes": 6642561024,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575315.9195821,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 58.0084207294192,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 56.02267697122977,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 22.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.59,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 967.0,
+      "clocks.mem": 5501.0
+    },
+    "memory_bytes": 6647427072,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575316.9193652,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.032199032501396,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.007462167950436,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 26.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.41,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 840.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6650630144,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575317.9195347,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.01645555500522,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.09510964547062,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 31.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.18,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 840.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6654861312,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575318.9193265,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 58.994969301862014,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.27492587133448,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 31.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.98,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 802.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6658965504,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575319.919373,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.958046972285565,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.00906833036981,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.09,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 802.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6663856128,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575320.9193852,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.04047881068941,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.02691474798087,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.0,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 810.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6667931648,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575321.9193673,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.00627003742483,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.042856309204964,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.09,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 810.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6672941056,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575322.9193244,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.96381514784625,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.032927220119255,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.02,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 817.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6677180416,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575323.919546,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.022599207316325,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.070387115680475,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.11,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 817.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6681210880,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575324.9199495,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.98100199437562,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.00681653433104,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 27.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.01,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 802.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6686171136,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575325.919389,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.015878197753494,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.97831579957571,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.07,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 802.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6690299904,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575326.9197602,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.998438284582726,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.00748425345106,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 52.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.79,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 840.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6693806080,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575327.9212487,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 57.006331813072265,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 357,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 357,
+      "system_fps": 59.98885263144862,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.02,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 840.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6699143168,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575328.9193854,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.00898224650911,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.14054291586442,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.03,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 652.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6702632960,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575329.9194946,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.00193648535315,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.203956435044475,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.04,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 832.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6707572736,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575330.9194386,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.966342167072185,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.17914271633742,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.02,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 645.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6711808000,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575331.9195588,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.004816858303634,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.03863065612307,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.06,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 825.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6715801600,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575332.9193292,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.98660305474639,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.93668216971572,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 30.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.06,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 645.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6720184320,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575333.9195652,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.990164276422675,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.91922947785615,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.01,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 832.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6724718592,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575334.9193842,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.02780902199103,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.982598688224954,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.04,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 645.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6728671232,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575335.9193907,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.01675128552121,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.96917716226049,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.0,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 855.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6733832192,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575336.9195058,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.98712799038821,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.95663372656538,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.02,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 660.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6737862656,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575337.9193506,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.981759140252095,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.05285179422987,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 29.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.01,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 855.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6742081536,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575338.9194086,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.04522374994881,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.032272749507406,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.0,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 660.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6746943488,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575339.919323,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.958158736978,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.00489339905669,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 26.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.03,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 847.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6750863360,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575340.9194553,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.01552435952681,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.02450716593275,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 26.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.01,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 652.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6754983936,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575341.9191618,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.98129187649765,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.1514223032379,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.01,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 840.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6759411712,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575342.9193776,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.04571802763219,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.05036135565164,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.02,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 645.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6764142592,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575343.9197423,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.95731874066665,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.906876557597506,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.05,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 862.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6768148480,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575344.9195042,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.03439693761398,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.079368691120564,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.01,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 855.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6772867072,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575345.9194984,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.003743516248136,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 59.999927160088426,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.04,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 855.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6777266176,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575346.9197366,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 58.930418938308705,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 354,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 354,
+      "system_fps": 57.99737828651193,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 48.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.97,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 817.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6762889216,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575347.920723,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 57.02945693322482,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 53.94572542143639,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.92,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 817.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6737084416,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575348.9208019,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 55.011404186497685,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 55.951406762740625,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 51.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.97,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 840.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6741495808,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575349.9194326,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 60.00258045614373,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 60.00422681774549,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 27.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.04,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 840.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6745636864,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575350.9195945,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.02808123062875,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 57.99772115354043,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 37.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.87,
+      "temperature.gpu": 57.0,
+      "clocks.gr": 660.0,
+      "clocks.mem": 810.0
+    },
+    "memory_bytes": 6750097408,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575351.9196851,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 55.99063430731829,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 54.090395111044046,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 18.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.98,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 975.0,
+      "clocks.mem": 5501.0
+    },
+    "memory_bytes": 6753996800,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575352.9199488,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 57.96009898515457,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 55.97807137423214,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 18.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.7,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 975.0,
+      "clocks.mem": 5501.0
+    },
+    "memory_bytes": 6758715392,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575353.9194708,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.00993773341843,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.957602300600385,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 26.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.31,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 825.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6762430464,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575354.920123,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.01059630941745,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 55.92985825290531,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 27.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.07,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 825.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6766874624,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575355.9196975,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.99711472993961,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.98412831961489,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 27.0,
+      "memory.used": 2673.0,
+      "power.draw": 9.94,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 862.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6770855936,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575356.9194489,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 57.030279553539046,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 356,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 356,
+      "system_fps": 60.04727918602358,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.1,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 862.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6775656448,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  },
+  {
+    "at": 1791575357.9194086,
+    "status": {
+      "commit": "10bcd2d849843b146a79c61a21df615e1bdcfcde",
+      "game_fps": 59.979166174647375,
+      "game_operation_pending": false,
+      "last_frame_age_ms": 355,
+      "loading_complete": true,
+      "modal": false,
+      "powered_on": true,
+      "program_id": "1006a800016e000",
+      "ready": true,
+      "running": true,
+      "shaders_building": 0,
+      "shutting_down": false,
+      "stats_age_ms": 355,
+      "system_fps": 59.985726276461065,
+      "title": "Eden | 10bcd2d849-agent/cli-control | GNU 15.2.0 | Super Smash Bros. Ultimate (64-bit) | 13.0.5 | Nvidia"
+    },
+    "gpu": {
+      "utilization.gpu": 28.0,
+      "memory.used": 2673.0,
+      "power.draw": 10.03,
+      "temperature.gpu": 58.0,
+      "clocks.gr": 855.0,
+      "clocks.mem": 5001.0
+    },
+    "memory_bytes": 6780248064,
+    "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0\n"
+  }
+]

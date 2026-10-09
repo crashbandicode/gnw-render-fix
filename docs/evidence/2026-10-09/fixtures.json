@@ -1,0 +1,30 @@
+{
+  "before": {
+    "plugins": {
+      "libarcropolis.nro": "92171b2f4dbd7afe9361a55922f01de7f46ffae09f05185c1cea4ab79dba9a1c"
+    },
+    "eden_binary_sha256": "5427e47ee3d9d195370d22f83da3605afcac7e4fa92216092229260699a57b2d",
+    "unsafe_readback_diagnostic": false,
+    "cosmetic_mods": [],
+    "load_mods": []
+  },
+  "after": {
+    "plugins": {
+      "libarcropolis.nro": "92171b2f4dbd7afe9361a55922f01de7f46ffae09f05185c1cea4ab79dba9a1c",
+      "libgnw_render_probe.nro": "bceef1f09e4339149cdab8e7826d17492680add02307002b0a5d62033d1090c8"
+    },
+    "eden_binary_sha256": "5427e47ee3d9d195370d22f83da3605afcac7e4fa92216092229260699a57b2d",
+    "unsafe_readback_diagnostic": false,
+    "cosmetic_mods": [],
+    "load_mods": []
+  },
+  "control": {
+    "plugins": {
+      "libarcropolis.nro": "92171b2f4dbd7afe9361a55922f01de7f46ffae09f05185c1cea4ab79dba9a1c"
+    },
+    "eden_binary_sha256": "5427e47ee3d9d195370d22f83da3605afcac7e4fa92216092229260699a57b2d",
+    "unsafe_readback_diagnostic": false,
+    "cosmetic_mods": [],
+    "load_mods": []
+  }
+}

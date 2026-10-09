@@ -1,0 +1,79 @@
+[  16.507076] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] loaded; opt-in size-only experiment=true; 512-line lifetime log cap
+[ 199.039993] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] shader code bytes=4600 fnv=0x3869d88ad69eee6a verified=true
+[ 199.040788] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.045521] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->18944 base=0 count=669 restored=true
+[ 199.050482] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.050634] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->37632 base=18732 count=669 restored=true
+[ 199.050717] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.050843] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->56320 base=37464 count=669 restored=true
+[ 199.051017] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.051140] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->75008 base=56196 count=669 restored=true
+[ 199.051188] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.051275] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->93952 base=74928 count=672 restored=true
+[ 199.051312] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.051397] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->112640 base=93744 count=669 restored=true
+[ 199.051426] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.051519] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->131328 base=112476 count=669 restored=true
+[ 199.051555] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.051651] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->150272 base=131208 count=672 restored=true
+[ 199.051696] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.051809] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] shader code bytes=4600 fnv=0x3869d88ad69eee6a verified=true
+[ 199.051832] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->168960 base=150024 count=676 restored=true
+[ 199.051869] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.051963] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->187904 base=168952 count=676 restored=true
+[ 199.051994] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.052085] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->206848 base=187880 count=676 restored=true
+[ 199.052120] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.052214] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->225792 base=206808 count=676 restored=true
+[ 199.052245] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.052336] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->244736 base=225736 count=676 restored=true
+[ 199.052369] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.052461] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->263680 base=244664 count=676 restored=true
+[ 199.052492] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.052584] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->282624 base=263592 count=676 restored=true
+[ 199.052612] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.052717] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->301568 base=282520 count=676 restored=true
+[ 199.052745] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.052828] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->312832 base=301448 count=405 restored=true
+[ 199.052856] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.052945] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->324352 base=312788 count=405 restored=true
+[ 199.052975] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.053071] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->335616 base=324128 count=405 restored=true
+[ 199.053103] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.053205] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->346880 base=335468 count=405 restored=true
+[ 199.053243] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.053338] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->358400 base=346808 count=405 restored=true
+[ 199.053368] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.053467] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->369664 base=358148 count=405 restored=true
+[ 199.053496] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.053608] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->380928 base=369488 count=405 restored=true
+[ 199.053662] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] shader code bytes=4600 fnv=0x3869d88ad69eee6a verified=true
+[ 199.053696] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.053797] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] RANGE slot=2 gpu=0x584210000 bytes=19518352->392192 base=380828 count=405 restored=true
+[ 199.053828] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.053945] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.054064] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.054175] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.054291] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.054407] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.054520] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.054660] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.054798] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.054922] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.055041] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.055158] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.055279] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.055397] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.055514] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.055635] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.071592] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.076017] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.076180] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.076285] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.076391] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.076496] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.076603] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.076712] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.076814] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.076918] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true
+[ 199.077016] Debug.Emulated <Info> core/hle/kernel/svc/svc_debug_string.cpp:25:OutputDebugString: [gnw-render-probe v4 RANGE_EXPERIMENT] full shader + mapped constants verified=true

@@ -1,5 +1,25 @@
 # Validation
 
+## October 9, 2026: corrected binary performance re-verification
+
+The existing `v0.1.1-experimental` NRO was re-tested without rebuilding it.
+Four stock G&Ws idle on the Training stage measured **28.00 → 59.99 → 29.00
+median FPS** in disabled / enabled / disabled order. Each warmed window contains
+60 one-second observations; all reported zero shaders compiling. Effective
+settings and executable hashes matched; the exact plugin inventories were checked.
+
+The enabled minimum observation was 41.99 FPS, so the result is not a locked-60
+claim. Stock extra-CPU palette assignments varied between launches. All measured
+frontends exited with code `0`; the original plugin set was restored.
+
+See [the full benchmark](EDEN_BENCHMARK.md) for unretouched before/after/control
+screenshots, system specifications, effective per-game settings, raw measurements,
+exact hashes, resource counters, and limitations.
+
+The operator now reports the corrected mod working on physical Switch. This is
+operator-reported functionality, not an instrumented hardware FPS result or
+multiplayer compatibility finding.
+
 ## Version 0.1.1: Switch startup correction
 
 The corrected range-enabled NRO has SHA-256:
@@ -32,8 +52,9 @@ Validation on 2026-10-07:
   `RANGE ... restored=true`. No separate Eden demand-readback bypass was enabled.
 - This is a targeted boot/render regression check, not a new speedup measurement,
   exhaustive pose test, or multiplayer compatibility certificate.
-- Native Switch retry of this corrected binary is pending. The old binary's
-  three matching hardware reports and root cause are in [SWITCH_BOOT_FIX.md](SWITCH_BOOT_FIX.md).
+- Native Switch retry was pending at the October 7 checkpoint; the October 9
+  operator report above supersedes that status. The old binary's three matching
+  hardware reports and root cause are in [SWITCH_BOOT_FIX.md](SWITCH_BOOT_FIX.md).
 
 ## Original v4 / 0.1.0 measurements (historical)
 
